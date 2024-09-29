@@ -1,0 +1,8 @@
+*{
+    cursor: url(https://cdn.custom-cursor.com/db/4905/32/arrow2786.png),
+    pointer !important;
+}
+input[type="text"], input[type="password"], input[type="email"], input[type="number"], input[type="tel"], input[type="url"], input[type="search"], textarea, select{
+    /*normal cursor for editing text */
+    cursor: text !important;
+}
